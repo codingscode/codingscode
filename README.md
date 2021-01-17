@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+My name is Heronnes Pereira and I'm open to new opportunities:
 
 - 🔭 I’m currently working on web development.
 - 🌱 I’m currently learning Javascript, HTML, CSS, NodeJs, Python, ReactJs, VueJs.
