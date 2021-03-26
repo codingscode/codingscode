@@ -11,8 +11,7 @@ My name is Heronnes Pereira and I'm open to new opportunities:
 
 ## My Stats:
 
-
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codingscode&layout=compact&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingscode&layout=compact&theme=onedark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=codingscode&count_private=true&show_icons=true)
 
