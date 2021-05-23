@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+<br/>
 
 My name is Heronnes Pereira and I'm open to new opportunities:
 
