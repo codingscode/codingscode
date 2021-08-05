@@ -1,3 +1,4 @@
+
 ### Hi there 👋 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <br/>
@@ -24,7 +25,7 @@ My name is Heronnes Pereira and I'm open to new opportunities:
 <div>
     <a href="https://github.com/codingscode">
 	<p align="center">
-    	    <img src="https://activity-graph.herokuapp.com/graph?username=codingscode&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=F3F5CB&point=7680F5&line=403F3F&theme=default" alt="Recently contributions graph" />
+    	    <img src="https://activity-graph.herokuapp.com/graph?username=codingscode&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=F3F5CB&point=7680F5&line=FFFFFF&theme=github" alt="Recently contributions graph" />
 	</p>
 	
 </div>
