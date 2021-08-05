@@ -24,7 +24,7 @@ My name is Heronnes Pereira and I'm open to new opportunities:
 <div>
     <a href="https://github.com/codingscode">
 	<p align="center">
-    	    <img src="https://activity-graph.herokuapp.com/graph?username=codingscode&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=whitepoint=FE0000&line=2895BC"/>
+    	    <img src="https://activity-graph.herokuapp.com/graph?username=codingscode&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=fbf7f7&point=2961c1&line=2895BC"/>
 	</p>
 	
     </a>
