@@ -19,14 +19,14 @@ My name is Heronnes Pereira and I'm open to new opportunities:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingscode&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 [![heronnespereira's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heronnespereira)](https://github.com/anuraghazra/github-readme-stats)
 
-![github](https://wakatime.com/share/@heronnespereira/c2d1a6c7-0653-48e1-ad32-0653bd57077b.svg)
-
-![github](https://wakatime.com/share/@heronnespereira/0d7aa281-6c63-478b-b152-6e6549a6f1c8.svg)
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=codingscode&count_private=true&show_icons=true)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=codingscode&hide_border=true)
 
+![github](https://wakatime.com/share/@heronnespereira/c2d1a6c7-0653-48e1-ad32-0653bd57077b.svg)
+
+![github](https://wakatime.com/share/@heronnespereira/0d7aa281-6c63-478b-b152-6e6549a6f1c8.svg)
 
 ## Activity
 
