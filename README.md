@@ -24,9 +24,9 @@ My name is Heronnes Pereira and I'm open to new opportunities:
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=codingscode&hide_border=true)
 
-![languages github](https://wakatime.com/share/@heronnespereira/33e812b7-d321-4b71-ad75-007fef911a43.svg)
+![languages github](https://wakatime.com/share/@heronnespereira/5fbcf69b-a365-4950-81a1-afa1bf94e2df.svg)
 
-![editors github](https://wakatime.com/share/@heronnespereira/99abc354-1799-412a-9ce0-e176efe977b8.svg)
+![editors github](https://wakatime.com/share/@heronnespereira/6a5303da-54df-4a25-89df-d361d9db7134.svg)
 
 ## Activity
 
