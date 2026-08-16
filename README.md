@@ -18,9 +18,9 @@ My name is Heronnes Pereira and I'm open to new opportunities:
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=codingscode&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-![heronnespereira's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heronnespereira&v=2)
+![heronnespereira's wakatime stats](https://github-stats-extended.vercel.app/api/wakatime?username=heronnespereira&v=2)
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=codingscode&count_private=true&show_icons=true)
+![Github Statistics](https://github-stats-extended.vercel.app/api/?username=codingscode&count_private=true&show_icons=true)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=codingscode&hide_border=true)
 
