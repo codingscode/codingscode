@@ -16,7 +16,7 @@ My name is Heronnes Pereira and I'm open to new opportunities:
 
 ## My Stats:
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=codingscode&layout=compact&langs_count=10&v=20260816)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=codingscode&layout=compact&langs_count=10&v=20260817)
 
 ![heronnespereira's wakatime stats](https://github-stats-extended.vercel.app/api/wakatime?username=heronnespereira&v=2)
 
