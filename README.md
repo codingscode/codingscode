@@ -9,7 +9,7 @@
 My name is Heronnes Pereira and I'm open to new opportunities:
 
 - 🔭 I’m currently working on web development.
-- 🌱 I’m currently learning Javascript, HTML, CSS, NodeJs, Python, ReactJs, VueJs.
+- 🌱 I’m currently learning Java, Spring Boot, Rust.
 - 👯 I’m looking to collaborate on Github.
 - 📫 How to reach me: https://www.linkedin.com/in/heronnes-pereira .
 
